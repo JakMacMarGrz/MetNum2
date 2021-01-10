@@ -79,9 +79,9 @@
             this.comboBox_elementType.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.comboBox_elementType.FormattingEnabled = true;
             this.comboBox_elementType.Items.AddRange(new object[] {
-            "1.",
-            "2.",
-            "3."});
+            "I^2 * a",
+            "b * pierw(I)",
+            "sin(a*I) - cos(I/b)"});
             this.comboBox_elementType.Location = new System.Drawing.Point(290, 42);
             this.comboBox_elementType.Name = "comboBox_elementType";
             this.comboBox_elementType.Size = new System.Drawing.Size(207, 28);
